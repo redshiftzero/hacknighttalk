@@ -41,13 +41,25 @@ Digital security
 
 ----
 
+Limitations of FOIA
+===================
+
+* Responses are late...always 
+
+* FOIA makes for quick reading, due to over redactions 
+
+* The most interesting records will require lawsuits to obtain
+
+
+----
+
 .. image:: images/muckrock.png
 
-* CPD asset forfeiture funds are used to pay for surveillance devices like Stingray 
+* CPD asset forfeiture funds are used to pay for surveillance devices like Stingray
 
-* Independent financial audit of where else CPD asset forfeiture funds are going 
+* Independent financial audit of where else CPD asset forfeiture funds are going
 
-* Currently working with a local journalist to publish the first results of this investigation 
+* Currently working with a local journalist to publish the first results of this investigation
 
 * If you're interested in helping with FOIA see: ``https://www.muckrock.com/project/opening-the-chicago-surveillance-fund-25/``
 
