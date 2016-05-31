@@ -39,6 +39,7 @@ Our Mission
 ===========
 
 The Lucy Parsons Labs is a Chicago-based collaboration between data scientists, transparency activists, and technologists which focuses on the intersection of digital rights and on-the-streets issues
+
 ----
 
 Previous Projects
@@ -98,6 +99,13 @@ SecureDrop sites
 .. image:: images/theintercept.png
 .. image:: images/thenewyorker-small.png
 .. image:: images/propublica-small.png
+
+----
+
+SecureDrop Architecture
+=======================
+
+.. image:: images/SecureDrop-en.png
 
 ----
 
