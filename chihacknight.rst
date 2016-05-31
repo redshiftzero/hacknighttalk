@@ -90,22 +90,24 @@ Limitations of FOIA
 
 ----
 
+SecureDrop Architecture
+=======================
+
+.. image:: images/sd_diagram.png
+
+----
+
 SecureDrop sites
 ================
 
-25 in the world (including ours), including these places:
+25 public deployments in the world (including ours), including these places:
 
 .. image:: images/washpo-small.png
 .. image:: images/theintercept.png
 .. image:: images/thenewyorker-small.png
 .. image:: images/propublica-small.png
 
-----
-
-SecureDrop Architecture
-=======================
-
-.. image:: images/SecureDrop-en.png
+Full list on ``https://securedrop.org/directory``
 
 ----
 
